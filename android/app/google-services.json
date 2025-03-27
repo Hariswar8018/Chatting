@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912316130123",
+    "project_id": "chatting-dab87",
+    "storage_bucket": "chatting-dab87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912316130123:android:1ce8e6b29db6595ce4bece",
+        "android_client_info": {
+          "package_name": "com.starwish.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlB5xLM8Xya8Q9wU0xWW9pAm8neG0RAE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
